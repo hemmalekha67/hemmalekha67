@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemma Lekha</h1>
 <h3 align="center">
-MERN Stack Developer | Data Science Learner | Python & SQL Enthusiast
+Data Science Learner | MERN Stack Learner | Python & SQL Enthusiast
 </h3>
 
 - 🌱 I’m currently learning **Data Science & Full Stack Development**
