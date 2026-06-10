@@ -3,11 +3,11 @@
 Data Science Learner | MERN Stack Learner | Python & SQL Enthusiast
 </h3>
 
-- 🌱 I’m currently learning **Data Science & Full Stack Development**
-- 💻 Working on **MERN Stack Projects**
-- 🤖 Exploring **AI & Machine Learning**
-- 📫 Reach me at **hemmalekha1@gmail.com**
-- ⚡ Fun fact: **I love building real-world projects**
+-  I’m currently learning **Data Science & Full Stack Development**
+-  Working on **MERN Stack Projects**
+-  Exploring **AI & Machine Learning**
+-  Reach me at **hemmalekha1@gmail.com**
+-  Fun fact: **I love building real-world projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
